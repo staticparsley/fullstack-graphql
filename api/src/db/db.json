@@ -3,5 +3,9 @@
     "id": "jBWMVGjm50l6LGwepDoty",
     "username": "frontendmaster"
   },
-  "pet": []
+  "pet": [
+    { "id": "1", "createdAt": "432452", "name": "Moose", "type": "DOG" },
+    { "id": "2", "createdAt": "526252354235", "name": "Noodle", "type": "DOG" },
+    { "id": "3", "createdAt": "262626253", "name": "Daryl", "type": "CATS" }
+  ]
 }
